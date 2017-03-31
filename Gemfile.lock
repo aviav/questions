@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:aviav/ruby-org.git
+  remote: git://github.com/aviav/ruby-org.git
   revision: a03029173c21a476afdbefd22c97c9890b923eb6
   specs:
     ruby-org (0.1.0)
